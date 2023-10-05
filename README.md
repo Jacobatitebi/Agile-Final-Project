@@ -1,2 +1,2 @@
 # Agile-Final-Project
-This repository contains the lab for agile for project
+This repository contains the lab for agile final project
